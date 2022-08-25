@@ -9,7 +9,7 @@ Made in 3 weeks from ground zero to ground hero 😆 @AICamp
 ***
 
 Go to our website [here](https://cocalc19.ai-camp.dev/1f5857f2-6682-4940-8a34-bfeaf3edb175/port/12345/). 
-[![Picture of the home page](app/static/images1/frontpageofwebsite.png)](https://cocalc19.ai-camp.dev/1f5857f2-6682-4940-8a34-bfeaf3edb175/port/12345/)
+[![Picture of the home page](app/static/images1/frontpageofwebsite.png)](https://cocalc21.ai-camp.dev/4122a58b-ef8f-4bd5-b08c-84c178a47d2e/port/12345/#page-top)
 
 
 Click on "Click to test fruit" and upload an image of a banana, apple, or blueberry. Our pretrained model will then detect the fruit and it's level of ripeness.
